@@ -45,14 +45,17 @@ chmod 777 wmapi_config.php
 ### 小程序配置发布
 - 前往[https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=1506754083](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=1506754083)，下载小程序开发者工具
 - 打开小程序开发者工具，新建项目，项目路径为wmapp
+
 - 修改app.js，修改svr_url为discuz的路径 
 ![安装3](http://a3.qpic.cn/psb?/V13OOk0c1xiW63/DQP1.osfxfdIFkIEQgG4akxYQT4BmbV94HBmQkrwIvU!/m/dEIAAAAAAAAAnull&bo=bAPrAAAAAAADB6Y!&rf=photolist&t=5)
+
 
 - 修改app.json，修改项目名称
 ![安装4](http://a2.qpic.cn/psb?/V13OOk0c1xiW63/iKm34*aG7SWLil8u*VYC5I9IfucWRRh6Yc*HWjZrVVg!/m/dAEBAAAAAAAAnull&bo=*gLtAAAAAAADBzM!&rf=photolist&t=5)
 
 - 上传小程序代码
 ![安装5](http://a2.qpic.cn/psb?/V13OOk0c1xiW63/R0haUjd.HfE6gpZV9tdfHWAjwTGEEoJRBJABG8XRblQ!/m/dAEBAAAAAAAAnull&bo=YwNbAQAAAAADBxg!&rf=photolist&t=5)
+
 
 - 前往【发布管理】，发布上线
 ![安装6](http://a3.qpic.cn/psb?/V13OOk0c1xiW63/iVSzXeaYsR5EPUXBuXqtIDcjJ.3444YaiartRHBzD7Y!/m/dEIAAAAAAAAAnull&bo=UgUWAQAAAAADB2I!&rf=photolist&t=5)
