@@ -21,6 +21,7 @@
 # 安装
 ## 资质材料
 微信小程序要求社区、论坛类小程序需要有《增值电信业务经营许可证》或《电信与信息服务业务经营许可证》。
+
 ![安装1](http://a3.qpic.cn/psb?/V13OOk0c1xiW63/7yoDs0k3.cIdkU.jXmfqBKa3FVSXvxXkWh9OjOsIVI4!/m/dJYAAAAAAAAAnull&bo=RQWAAgAAAAADB.A!&rf=photolist&t=5)
  
 ## 下载wmdz
@@ -39,6 +40,7 @@ cd wmapi
 chmod 777 data
 chmod 777 wmapi_config.php
 - 打开安装脚本http://path_to_discuz/wmapi/wmapi_install.php，添加appid、appsecret，开始安装。
+
 ![安装2](http://a4.qpic.cn/psb?/V13OOk0c1xiW63/6zMD8lJwtuHZE*MQIpa5z463I9flQ9w0I5QDeaQXeOA!/m/dPcAAAAAAAAAnull&bo=QAMiAQAAAAADB0I!&rf=photolist&t=5)
  
 
@@ -47,17 +49,20 @@ chmod 777 wmapi_config.php
 - 打开小程序开发者工具，新建项目，项目路径为wmapp
 
 - 修改app.js，修改svr_url为discuz的路径 
+
 ![安装3](http://a3.qpic.cn/psb?/V13OOk0c1xiW63/DQP1.osfxfdIFkIEQgG4akxYQT4BmbV94HBmQkrwIvU!/m/dEIAAAAAAAAAnull&bo=bAPrAAAAAAADB6Y!&rf=photolist&t=5)
 
-
 - 修改app.json，修改项目名称
+
 ![安装4](http://a2.qpic.cn/psb?/V13OOk0c1xiW63/iKm34*aG7SWLil8u*VYC5I9IfucWRRh6Yc*HWjZrVVg!/m/dAEBAAAAAAAAnull&bo=*gLtAAAAAAADBzM!&rf=photolist&t=5)
 
 - 上传小程序代码
+
 ![安装5](http://a2.qpic.cn/psb?/V13OOk0c1xiW63/R0haUjd.HfE6gpZV9tdfHWAjwTGEEoJRBJABG8XRblQ!/m/dAEBAAAAAAAAnull&bo=YwNbAQAAAAADBxg!&rf=photolist&t=5)
 
 
 - 前往【发布管理】，发布上线
+
 ![安装6](http://a3.qpic.cn/psb?/V13OOk0c1xiW63/iVSzXeaYsR5EPUXBuXqtIDcjJ.3444YaiartRHBzD7Y!/m/dEIAAAAAAAAAnull&bo=UgUWAQAAAAADB2I!&rf=photolist&t=5)
  
 
