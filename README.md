@@ -49,9 +49,11 @@ chmod 777 wmapi_config.php
 ![安装3](http://a3.qpic.cn/psb?/V13OOk0c1xiW63/DQP1.osfxfdIFkIEQgG4akxYQT4BmbV94HBmQkrwIvU!/m/dEIAAAAAAAAAnull&bo=bAPrAAAAAAADB6Y!&rf=photolist&t=5)
 
 - 修改app.json，修改项目名称
+
 ![安装4](http://a2.qpic.cn/psb?/V13OOk0c1xiW63/iKm34*aG7SWLil8u*VYC5I9IfucWRRh6Yc*HWjZrVVg!/m/dAEBAAAAAAAAnull&bo=*gLtAAAAAAADBzM!&rf=photolist&t=5)
 
 - 上传小程序代码
+
 ![安装5](http://a2.qpic.cn/psb?/V13OOk0c1xiW63/R0haUjd.HfE6gpZV9tdfHWAjwTGEEoJRBJABG8XRblQ!/m/dAEBAAAAAAAAnull&bo=YwNbAQAAAAADBxg!&rf=photolist&t=5)
 
 - 前往【发布管理】，发布上线
@@ -60,6 +62,7 @@ chmod 777 wmapi_config.php
 
 # 打赏
 如果觉得wmdz对您有用，请随意打赏。您的支持将鼓励我继续创作！
+
 ![打赏](http://a4.qpic.cn/psb?/V13OOk0c1xiW63/XqTp4KhSv*7KnpseaO4iO3g4XEa0Xv9ZhpTCyHiL.BU!/m/dPcAAAAAAAAAnull&bo=sAC0AAAAAAADByY!&rf=photolist&t=5)
 
 # 讨论区
